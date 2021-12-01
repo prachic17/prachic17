@@ -5,9 +5,14 @@
 - 📫 You can reach me at <a href="chittoraprachi17@gmail.com"> chittoraprachi17@gmail.com 👋 </a>
 - ⚡ Fun Fact - I have a thing for Food😋 and Sunsets🌇
 
-<h1> Skills</h1>
+<h1>Technologies</h1>
 
-            
+<h1> Find me around the Web 🌎</h1>
+<ul>
+            <li><a href="https://twitter.com/prachi_chittora">Twitter</a> </li>
+            <li><a href="https://www.linkedin.com/in/prachi17/">Linkedn</a> </li>
+             <li><a href="https://twitter.com/prachi_chittora">Instagram</a> </li>
+     
 
 
 <!---
