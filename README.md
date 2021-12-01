@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @prachi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m working on Angular12 and Spring Boot
+- 🌱 I’m currently learning Backend
+- 💞️ I’m looking to collaborate on Front End Web Development
+- 📫 You can reach me at <a href="chittoraprachi17@gmail.com"> chittoraprachi17@gmail.com 👋 </a>
+- ⚡ Fun Fact - I have a thing for Food😋 and Sunsets🌇
 
+<h1> Skills</h1>
+
+            
 
 
 <!---
