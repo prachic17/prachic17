@@ -31,7 +31,7 @@
 <h1> Find me around the Web 🌎</h1>
 <ul>
             <li><a href="https://twitter.com/prachi_chittora">Twitter</a> </li>
-            <li><a href="https://www.linkedin.com/in/prachi17/">Linkedn</a> </li>
+            <li><a href="https://www.linkedin.com/in/prachi17/">LinkedIn</a> </li>
             <li><a href="https://www.instagram.com/prachi._.chittora/">Instagram</a> </li>
      
 </ul>
