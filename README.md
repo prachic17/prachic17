@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @prachi
+![Purple Minimalist Brush Personal github Banner](https://user-images.githubusercontent.com/61531836/144378610-b2b78853-2237-425f-9bfd-09126e926c45.png)
+
+
+- 👋 Hi, I’m Prachi Chittora
 - 👀 I’m working on Angular12 and Spring Boot
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on Front End Web Development
 - 📫 You can reach me at <a href="chittoraprachi17@gmail.com"> chittoraprachi17@gmail.com 👋 </a>
 - ⚡ Fun Fact - I have a thing for Food😋 and Sunsets🌇
 
-<h1>Technologies</h1>
+<h1>Technologies 💻 </h1>
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-F7DF1E?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,7 +31,7 @@
 <!-- ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white) -->
 
             
-<h1> Find me around the Web 🌎</h1>
+<h1> Find me around the web 🌎</h1>
 <ul>
             <li><a href="https://twitter.com/prachi_chittora">Twitter</a> </li>
             <li><a href="https://www.linkedin.com/in/prachi17/">LinkedIn</a> </li>
