@@ -38,6 +38,8 @@
      
 </ul>
 
+[![](https://visitcount.itsvg.in/api?id=pChittora&label=Profile%20Views&color=0&icon=8&pretty=false)](https://visitcount.itsvg.in)
+
 
 <!---
 prachic17/prachic17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
