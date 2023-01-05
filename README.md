@@ -3,10 +3,9 @@
 
 - 👋 Hi, I’m Prachi Chittora
 - 👀 I’m working on Angular12 and Spring Boot
-- 🌱 I’m currently learning Backend
 - 📫 You can reach me at <a href="chittoraprachi17@gmail.com"> chittoraprachi17@gmail.com 👋 </a>
 - ⚡ Fun Fact - I have a thing for Food😋 and Sunsets🌇
-
+- :sparkles: <a href="https://bit.ly/prachiii_hashnode">Portfolio</a>
 <h1>Technologies 💻 </h1>
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,7 +30,8 @@
 
             
 <h1> Find me around the web 🌎</h1>
-<ul>
+<ul>                  
+            <li><a href="https://bit.ly/prachiii_hashnode">Hashnode</a> </li>
             <li><a href="https://twitter.com/prachi_chittora">Twitter</a> </li>
             <li><a href="https://www.linkedin.com/in/prachi17/">LinkedIn</a> </li>
             <li><a href="https://www.instagram.com/prachi._.chittora/">Instagram</a> </li>
