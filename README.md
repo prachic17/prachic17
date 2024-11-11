@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m Prachi Chittora
-- 👀 I’m working on Angular12 and Spring Boot
+- 👀 I’m working as a Backend Developer - Java, Springboot
 - 📫 You can reach me at <a href="chittoraprachi17@gmail.com"> chittoraprachi17@gmail.com 👋 </a>
 - ⚡ Fun Fact - I have a thing for Food😋 and Sunsets🌇
 - :sparkles: <a href="https://bit.ly/prachiii_hashnode">Portfolio</a>
